@@ -1,0 +1,34 @@
+.beyond {
+  font-size: 50px;
+  background-image: linear-gradient(180deg, #ffb6ff, #b344ff);
+  font-weight: bolder;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.discount {
+  display: none;
+}
+
+.discount-heading {
+  background-image: linear-gradient(180deg, #ffb6ff, #b344ff);
+  font-weight: bolder;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.img {
+}
+
+#promo {
+  padding: 8px 40px;
+  border-radius: 5px;
+}
+
+#input-display {
+}
+.promo-display {
+  display: none;
+}
